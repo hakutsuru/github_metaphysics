@@ -19,9 +19,13 @@ Considering roles change, and the world revolves, I wish to keep scenes of GitHu
 
 Screen captures of hakutsuru account after being primary support for Beatport Pro (and later, supporting several teams deploying applications on AWS).
 
+![2015-10-16](2015_Beatport/2015-10-16_github-hakutsuru.png)
+
 ![2015-10-30](2015_Beatport/2015-10-30_github-hakutsuru.png)
 
-![2015-10-16](2015_Beatport/2015-10-16_github-hakutsuru.png)
+**One more, then there were 2^10**
+
+![2016-01-18](2016_Beatport/2016-01-18_github-hakutsuru.png)
 
 
 2014 SFX-Arc90 Infrastructure
