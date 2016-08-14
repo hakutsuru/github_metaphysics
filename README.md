@@ -13,6 +13,20 @@ And that is the segue, what *this* is about... Looking at GitHub without being l
 
 Considering roles change, and the world revolves, I wish to keep scenes of GitHub things past *for remembrance*.
 
+Github fixed this, right? Now you get to see *private* contributions. Yes and *not really*, it is **broken** -- when I left Beatport, contributions dropped from over 1,000 to under 300. This is really the kind of thing you should never get wrong...
+
+
+2016 Beatport
+------------------------
+
+Caputed this to commemorate reaching an auspicious binary.
+
+![2016-01-18](2016_Beatport/2016-01-18_github-hakutsuru.png)
+
+I got real excited, but then 1221 <> [2112](https://en.wikipedia.org/wiki/2112_(album\)).
+
+![2015-10-16](2016_Beatport/2016-04-15_github-hakutsuru.png)
+
 
 2015 Beatport Pro & etc.
 ------------------------
@@ -22,10 +36,6 @@ Screen captures of hakutsuru account after being primary support for Beatport Pr
 ![2015-10-16](2015_Beatport/2015-10-16_github-hakutsuru.png)
 
 ![2015-10-30](2015_Beatport/2015-10-30_github-hakutsuru.png)
-
-**One more, then there were 2^10**
-
-![2016-01-18](2016_Beatport/2016-01-18_github-hakutsuru.png)
 
 
 2014 SFX-Arc90 Infrastructure
