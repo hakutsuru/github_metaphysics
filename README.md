@@ -31,6 +31,13 @@ Oh yeah, now we are *1337*.
 
 ![2016-05-04](2016_Beatport/2016-05-04_github-hakutsuru.png)
 
+**Behold, peak hakutsuru.**
+
+![2016-05-27](2016_Beatport/2016-05-27_github-hakutsuru.png)
+
+Team portrait for the store (as it should always be -- robmadole ahead of me).
+
+![2016-06-18](2016_Beatport/2016-06-18_github-hakutsuru.png)
 
 2015 Beatport Pro & etc.
 ------------------------
