@@ -25,7 +25,11 @@ Caputed this to commemorate reaching an auspicious binary.
 
 I got real excited, but then 1221 <> [2112](https://en.wikipedia.org/wiki/2112_(album)).
 
-![2015-10-16](2016_Beatport/2016-04-15_github-hakutsuru.png)
+![2016-04-15](2016_Beatport/2016-04-15_github-hakutsuru.png)
+
+Oh yeah, now we are *1337*.
+
+![2016-05-04](2016_Beatport/2016-05-04_github-hakutsuru.png)
 
 
 2015 Beatport Pro & etc.
