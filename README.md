@@ -23,7 +23,7 @@ Caputed this to commemorate reaching an auspicious binary.
 
 ![2016-01-18](2016_Beatport/2016-01-18_github-hakutsuru.png)
 
-I got real excited, but then 1221 <> [2112](https://en.wikipedia.org/wiki/2112_(album\)).
+I got real excited, but then 1221 <> [2112](https://en.wikipedia.org/wiki/2112_(album)).
 
 ![2015-10-16](2016_Beatport/2016-04-15_github-hakutsuru.png)
 
