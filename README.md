@@ -35,9 +35,19 @@ Oh yeah, now we are *1337*.
 
 ![2016-05-27](2016_Beatport/2016-05-27_github-hakutsuru.png)
 
-Team portrait for the store (as it should always be -- robmadole ahead of me).
+Team portrait for the store -- as it should be with robmadole in the lead (for backend/infrastructure development).
 
 ![2016-06-18](2016_Beatport/2016-06-18_github-hakutsuru.png)
+
+Oh yeah, now we are *1337*. Erm what? Summer 2015 was a hectic storm of refactoring and bug hunting, and when those commits fell of the graph...
+
+![2016-07-05](2016_Beatport/2016-07-05_github-hakutsuru.png)
+
+**But seriously. Github, this ain't right.**
+
+(Beatport shed its NYC staff 2016 July 07, and I was committing code and updating Pivotal tickets through the previous day.)
+
+![2016-08-13](2016_Beatport/2016-08-13_github-hakutsuru.png)
 
 2015 Beatport Pro & etc.
 ------------------------
