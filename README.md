@@ -19,7 +19,7 @@ Github fixed this, right? Now you get to see *private* contributions. Yes and *n
 2016 Beatport
 ------------------------
 
-Caputed this to commemorate reaching an auspicious binary.
+Captured this to commemorate reaching an auspicious binary.
 
 ![2016-01-18](2016_Beatport/2016-01-18_github-hakutsuru.png)
 
